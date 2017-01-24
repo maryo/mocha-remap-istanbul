@@ -1,0 +1,21 @@
+{
+  "name": "mocha-remap-istanbul",
+  "version": "0.1.0",
+  "description": "Istanbul code coverage reporter for Mocha supporting coverage remapping by remap-istanbul",
+  "dependencies": {
+      "remap-istanbul": "0.8.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/maryo/mocha-remap-istanbul.git"
+  },
+  "keywords": [
+    "mocha",
+    "istanbul",
+    "remap-istanbul",
+    "test",
+    "coverage"
+  ],
+  "author": "Marek Štípek <mario.dweller@seznam.cz>",
+  "license": "MIT"
+}
