@@ -1,7 +1,7 @@
 mocha-remap-istanbul
 ====================
 
-[Mocha](http://visionmedia.github.com/mocha/) reporter to generate coverage report of [istanbul](http://gotwarlost.github.com/istanbul/) instrumented code.
+[Mocha](http://mochajs.org/) reporter to generate coverage report of [istanbul](http://gotwarlost.github.com/istanbul/) instrumented code.
 Supports coverage remapping by [remap-istanbul](http://github.com/SitePen/remap-istanbul).
 More than just inspired by [mocha-istanbul](http://github.com/arikon/mocha-istanbul), thanks guys.
 
